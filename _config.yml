@@ -10,7 +10,7 @@ author:
   name: EthanMcBloxxer # your name
   email: "EthanMcBloxxer@pm.me" # email on click (header + footer)
 avatar:
-  path: "jekyll-theme-discord/assets/avatar.png" # primary avatar
+  path: "https://ethanmcbloxxer.github.io/jekyll-theme-discord/assets/avatar.png" # primary avatar
   circle: true # make avatar a circle
   apple: false # 180x180 or 192x192 avatar for Apple devices; NO TRANSPARENCY
   16: false # optional 16x16 "image/png" in head (specify URL if it exists)
