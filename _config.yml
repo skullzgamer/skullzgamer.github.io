@@ -7,8 +7,8 @@ title: jekyll-theme-discord # title to be shown under main avatar
 subtitle: A Microblog for Jekyll with Discord-style "DM"s # subtitle to be shown under title
 description: This shows up in search results sometimes and in the RSS feed... # RSS feed and search result description; don't use quotes if you can help it
 author:
-  name: Some Author # your name
-  email: "name@hosting.email" # email on click (header + footer)
+  name: EthanMcBloxxer # your name
+  email: "EthanMcBloxxer@pm.me" # email on click (header + footer)
 avatar:
   path: "/assets/avatar.png" # primary avatar
   circle: true # make avatar a circle
@@ -42,7 +42,7 @@ browserconfig: false # a browserconfig.xml file for Microsoft devices (please sp
 #matomo: # Matomo (Piwik)
 #  site_id: "1"
 #  uri: "demo.github.io"
-#amplitude: "AmplitudeIsTheSuperiorAnalytics4" # your Amplitude API Key
+amplitude: "d60603304c4f591d0229cec8ea1b1d11" # your Amplitude API Key
 #hotjar: "4685270" # your Hotjar site ID
 
 # Comments
