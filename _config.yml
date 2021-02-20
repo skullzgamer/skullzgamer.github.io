@@ -10,9 +10,9 @@ author:
   name: EthanMcBloxxer # your name
   email: "EthanMcBloxxer@pm.me" # email on click (header + footer)
 avatar:
-  path: "/assets/avatar.png" # primary avatar
+  path: "jekyll-theme-discord/assets/avatar.png" # primary avatar
   circle: true # make avatar a circle
-  apple: "/assets/192x192.png" # 180x180 or 192x192 avatar for Apple devices; NO TRANSPARENCY
+  apple: false # 180x180 or 192x192 avatar for Apple devices; NO TRANSPARENCY
   16: false # optional 16x16 "image/png" in head (specify URL if it exists)
   32: false # optional 32x32 "image/png" in head (specify URL if it exists)
   96: false # optional 96x96 "image/png" in head (specify URL if it exists)
@@ -50,7 +50,7 @@ amplitude: "d60603304c4f591d0229cec8ea1b1d11" # your Amplitude API Key
 
 #disqus: "ethanmcbloxxer" # disqus shortname (not userid)
 #facebook-id: "App17" # create a facebook app and fill this in with the app id
-utterances: "EthanMcBloxxer/jekyll-theme-discord" # username/repository (PLEASE ADD https://github.com/apps/utterances TO THE SPECIFIED REPO)
+utterances: "EthanMcBloxxer/jekyll-theme-discord@demo" # username/repository (PLEASE ADD https://github.com/apps/utterances TO THE SPECIFIED REPO)
 
 # Jekyll config
 exclude: # exclude from built site
