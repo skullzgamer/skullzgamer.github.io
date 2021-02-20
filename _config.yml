@@ -50,7 +50,7 @@ amplitude: "d60603304c4f591d0229cec8ea1b1d11" # your Amplitude API Key
 
 #disqus: "ethanmcbloxxer" # disqus shortname (not userid)
 #facebook-id: "App17" # create a facebook app and fill this in with the app id
-utterances: "EthanMcBloxxer/jekyll-theme-discord@demo" # username/repository (PLEASE ADD https://github.com/apps/utterances TO THE SPECIFIED REPO)
+utterances: "EthanMcBloxxer/ethanmcbloxxer.github.io" # username/repository (PLEASE ADD https://github.com/apps/utterances TO THE SPECIFIED REPO)
 
 # Jekyll config
 exclude: # exclude from built site
