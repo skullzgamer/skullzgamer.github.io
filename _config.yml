@@ -3,16 +3,16 @@
 # Site settings
 locale: "en-us" # find your locale with `navigator.language` in the console.
 
-title: jekyll-theme-discord # title to be shown under main avatar
-subtitle: A Microblog for Jekyll with Discord-style "DM"s # subtitle to be shown under title
-description: This shows up in search results sometimes and in the RSS feed... # RSS feed and search result description; don't use quotes if you can help it
+title: skullzgamer # title to be shown under main avatar
+subtitle: Miscellaneous Content # subtitle to be shown under title
+description: skullzgamer.github.io: a bunch of random and miscellaneous content # RSS feed and search result description; don't use quotes if you can help it
 author:
-  name: Some Author # your name
-  email: "name@hosting.email" # email on click (header + footer)
+  name: Elijah Fantauzzi # your name
+  email: "elijahfantauzzi@gmail.com" # email on click (header + footer)
 avatar:
   path: "/assets/avatar.png" # primary avatar
   circle: true # make avatar a circle
-  apple: "/assets/192x192.png" # 180x180 or 192x192 avatar for Apple devices; NO TRANSPARENCY
+  apple: false # 180x180 or 192x192 avatar for Apple devices; NO TRANSPARENCY
   16: false # optional 16x16 "image/png" in head (specify URL if it exists)
   32: false # optional 32x32 "image/png" in head (specify URL if it exists)
   96: false # optional 96x96 "image/png" in head (specify URL if it exists)
@@ -25,7 +25,7 @@ codeblock-border: true # use discord's dark border around code blocks
 
 # Libraries
 jquery: false # add latest jquery.slim.min: ONLY FOR JAVASCRIPT DEVELOPERS. this may slow down the site considerably (like ~50ms).
-code-copy: true # make tiny "Copy to Clipboard" buttons for each code snippet, credit to ClipboardJS
+code-copy: false # make tiny "Copy to Clipboard" buttons for each code snippet, credit to ClipboardJS
 deep-links: true # make "#" urls for each paragraph and heading with a tiny animated "#", credit to AnchorJS
 mathjax: false # import the MathJax library: https://docs.mathjax.org
 
@@ -42,7 +42,7 @@ browserconfig: false # a browserconfig.xml file for Microsoft devices (please sp
 #matomo: # Matomo (Piwik)
 #  site_id: "1"
 #  uri: "demo.github.io"
-#amplitude: "AmplitudeIsTheSuperiorAnalytics4" # your Amplitude API Key
+amplitude: "090cec9e2f2777b710f3776bc2a9a6f1" # your Amplitude API Key
 #hotjar: "4685270" # your Hotjar site ID
 
 # Comments
@@ -50,7 +50,7 @@ browserconfig: false # a browserconfig.xml file for Microsoft devices (please sp
 
 #disqus: "ethanmcbloxxer" # disqus shortname (not userid)
 #facebook-id: "App17" # create a facebook app and fill this in with the app id
-#utterances: "EthanMcBloxxer/ethanmcbloxxer.github.io" # username/repository (PLEASE ADD https://github.com/apps/utterances TO THE SPECIFIED REPO)
+utterances: "skullzgamer/skullzgamer.github.io" # username/repository (PLEASE ADD https://github.com/apps/utterances TO THE SPECIFIED REPO)
 
 # Jekyll config
 exclude: # exclude from built site
