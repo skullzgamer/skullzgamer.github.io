@@ -5,7 +5,7 @@ locale: "en-us" # find your locale with `navigator.language` in the console.
 
 title: skullzgamer # title to be shown under main avatar
 subtitle: Miscellaneous Content # subtitle to be shown under title
-description: skullzgamer.github.io: a bunch of random and miscellaneous content # RSS feed and search result description; don't use quotes if you can help it
+description: skullzgamer.github.io&#58; a bunch of random and miscellaneous content # RSS feed and search result description; don't use quotes if you can help it
 author:
   name: Elijah Fantauzzi # your name
   email: "elijahfantauzzi@gmail.com" # email on click (header + footer)
